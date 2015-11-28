@@ -1,0 +1,58 @@
+{
+  "line1":{
+    "name": "1号线",
+    "color": "#ED3229",
+  },
+  "line2":{
+    "name": "2号线",
+    "color": "#36B854",
+  },
+  "line3":{
+    "name": "3号线",
+    "color": "#FFD823",
+  },
+  "line4":{
+    "name": "4号线",
+    "color": "#320176",
+  },
+  "line5":{
+    "name": "5号线",
+    "color": "#823094",
+  },
+  "line6":{
+    "name": "6号线",
+    "color": "#CF047A",
+  },
+  "line7":{
+    "name": "7号线",
+    "color": "#F3560F",
+  },
+  "line8":{
+    "name": "8号线",
+    "color": "#008CC1",
+  },
+  "line9":{
+    "name": "9号线",
+    "color": "#91C5DB",
+  },
+  "line10":{
+    "name": "10号线",
+    "color": "#C7AFD3",
+  },
+  "line11":{
+    "name": "11号线",
+    "color": "#8C2222",
+  },
+  "line12":{
+    "name": "12号线",
+    "color": "#007a61",
+  },
+  "line13":{
+    "name": "13号线",
+    "color": "#ec91cc",
+  },
+  "line16":{
+    "name": "16号线",
+    "color": "#32d2ca",
+  },
+}
